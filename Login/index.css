@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+}
+
+input{
+    margin-top: 10px;
+}
+
+#boton{
+    margin-top: 10px;
+}
+
+h1{
+    color: white;
+}
+
+header{
+    background-color: black;
+    padding: 2%;
+    text-align: center;
+}
+
+body{
+    background-color: pink;
+}
+
+.contenedor{
+    background-color: white;
+    margin-top: 3%;
+    padding: 5%;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+button{
+    margin-top: 10px;
+}
